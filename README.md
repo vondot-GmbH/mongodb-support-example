@@ -23,7 +23,7 @@ This is the same example as in the mongoose playground.
 This works
 
 ```
-http://localhost:3000/training-plans/with-aggregate
+GET http://localhost:3000/training-plans/with-aggregate
 ```
 
 ### with-mognoose
@@ -31,6 +31,6 @@ http://localhost:3000/training-plans/with-aggregate
 As already described I have exactly this problem here that the language fields are not available in the result.
 
 ```
-http://localhost:3000/training-plans/with-mognoose
+GET http://localhost:3000/training-plans/with-mognoose
 ```
 
